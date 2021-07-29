@@ -4,7 +4,7 @@
 ## Выполнила проект -я
 
 ### Технологии в проекте
--HTML
--CSS
--JavaScript
--Normalize
+- HTML
+- CSS
+- JavaScript
+- Normalize
