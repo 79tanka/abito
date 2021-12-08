@@ -1,10 +1,9 @@
-# Abito-сайт объявлений
-Учебный проект Glo Academy
+# 📢 Advertising site  
+training project
 
-## Выполнила проект -я
+## Completed: I
 
-### Технологии в проекте
+### Languages used:
 - HTML
 - CSS
 - JavaScript
-- Normalize
